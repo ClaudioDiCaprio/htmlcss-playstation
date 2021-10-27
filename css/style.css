@@ -2,10 +2,6 @@
     height: 40px;
 }
 
-/* .header_bottom {
-    height: 100px;
-} */
-
 #play_logo {
     height: 40px;
 }
@@ -27,13 +23,13 @@
     border-radius: 20px;
 }
 .header_top .row  img {
-
-width: 80px;
+    width: 80px;
 }
 
 #jumbo .row #retu {
     width: 350px;
 }
+
 #jumbo {
     height:600px;
     background-image: url(../img/jumbo-bg.png);
@@ -44,9 +40,9 @@ width: 80px;
     font-size: 40px;
 }
 
-.boxy {
-    background-color: blue;
-    height: 100px;
+.boxy img {
+    
+    width: 220px;
     border-radius:10px;
 }
 
@@ -114,4 +110,30 @@ width: 80px;
 footer{
     height: 900px;
     background-color: #00439c;
+}
+
+@media screen and (min-width:576px) {
+
+    .boxy img {
+    
+        width: 160px;
+    }
+
+}
+
+@media screen and (min-width:768px) {
+
+    .boxy img {
+    
+        width: 200px;
+    }
+
+}
+@media screen and (min-width:992px) {
+
+    .boxy img {
+    
+        width: 140px;
+    }
+
 }

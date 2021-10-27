@@ -26,16 +26,22 @@
 .mine_rad {
     border-radius: 20px;
 }
-.row  img {
+.header_top .row  img {
 
 width: 80px;
 }
 
+#jumbo .row #retu {
+    width: 350px;
+}
 #jumbo {
     height:600px;
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
-
+    background-position: center;
+}
+.break {
+    font-size: 40px;
 }
 
 .boxy {

@@ -29,6 +29,17 @@ width: 80px;
     height: 100px;
     border-radius:10px;
 }
+
+.baxy {
+    background-color: rgb(21, 255, 0);
+    height: 80px;
+}
+.boxy_ {
+    background-color: rgb(229, 255, 0);
+    height: 100px;
+    border-radius:10px;
+}
+
 .ecco {
     height: 250px;
 }
@@ -39,4 +50,34 @@ width: 80px;
 
 .console_ {
     height:350px;
+}
+
+#mega{
+    height: 600px;
+}
+.written {
+    background-color: chartreuse;
+    height: 50px;
+}
+
+.explore{
+    height: 250px;
+    background-color: cornflowerblue;
+}
+
+.ciciarampa,
+.ciciarampa_,
+.ciciarampa- {
+    height: 400px;
+}
+
+.ciciarampa {
+    background-color: crimson;
+}
+
+.ciciarampa_ {
+    background-color: darkblue;
+}
+.ciciarampa- {
+    background-color: darkorange;
 }

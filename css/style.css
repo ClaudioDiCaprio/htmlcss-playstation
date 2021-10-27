@@ -2,10 +2,30 @@
     height: 40px;
 }
 
-.header_bottom {
+/* .header_bottom {
     height: 100px;
+} */
+
+#play_logo {
+    height: 40px;
 }
 
+.pad { 
+    justify-content: space-between;
+}
+
+.bi-chevron-down {
+    font-size: 10px;
+    font-weight:bolder;
+}
+
+.bi-search {
+    font-size: 18px;
+}
+
+.mine_rad {
+    border-radius: 20px;
+}
 .row  img {
 
 width: 80px;

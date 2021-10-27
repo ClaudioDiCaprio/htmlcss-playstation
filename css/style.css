@@ -33,6 +33,9 @@ width: 80px;
 
 #jumbo {
     height:600px;
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+
 }
 
 .boxy {

@@ -41,9 +41,8 @@
 }
 
 .boxy img {
-    
-    width: 220px;
-    border-radius:10px;
+    width: 100%;
+    border-radius:15px;
 }
 
 .baxy {
@@ -110,30 +109,4 @@
 footer{
     height: 900px;
     background-color: #00439c;
-}
-
-@media screen and (min-width:576px) {
-
-    .boxy img {
-    
-        width: 160px;
-    }
-
-}
-
-@media screen and (min-width:768px) {
-
-    .boxy img {
-    
-        width: 200px;
-    }
-
-}
-@media screen and (min-width:992px) {
-
-    .boxy img {
-    
-        width: 140px;
-    }
-
 }

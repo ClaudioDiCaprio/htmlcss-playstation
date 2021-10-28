@@ -53,8 +53,7 @@
     background-color: #1f1f1f;
 }
 
-#mega .row #taki,
-.le_plu {
+#mega .row #taki{
     width: 300px;
 }
 .break {
@@ -85,18 +84,18 @@
     height: 80px;
 }
 
-#plus {
-    background-color: rgb(196, 196, 196);
+#now {
+    background-color: #161c3b;
 }
 
-.follow {
-    height: 200px;
-    background-color: hotpink;
+#plus {
+    background-color: #bebcbb;
 }
 
 footer{
     height: 900px;
     background-color: #00439c;
+    margin-top: 50px;
 }
 
 /* hover */

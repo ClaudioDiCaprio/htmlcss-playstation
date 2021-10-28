@@ -29,13 +29,21 @@
 #jumbo .row #retu {
     width: 350px;
 }
-
+.micro {
+    font-size: 7px;
+    position: relative;
+    bottom: 5px;
+}
 
 #jumbo {
     height:600px;
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
     background-position: center;
+}
+
+#megatron {
+    background-color: #1f1f1f;
 }
 
 #mega {
@@ -57,11 +65,7 @@
     border-radius: 15px;
     border: 2px solid rgb(255, 255, 255);
 }
-.tralala {
-    border-radius: 15px;
-    border: 2px solid rgb(255, 255, 255);
-    padding: 0 20px;
-}
+
 .boxy img {
     width: 100%;
     padding: 2px;
@@ -73,11 +77,18 @@
     background-color: rgb(21, 255, 0);
     height: 80px;
 }
+
 .boxy_ {
-    background-color: rgb(229, 255, 0);
-    height: 100px;
-    border-radius:10px;
+    width: 100%;
+    border-radius: 15px;
+    border: 2px solid  #1f1f1f;;
 }
+.boxy_ img{
+    width: 100%;
+    border-radius: 15px;
+    background-color: #1f1f1f;
+}
+
 
 .playstation_5 img{
     width: 100%;
@@ -87,14 +98,10 @@
     width: 100%;
 }
 
-
-/* #mega{
-    height: 600px;
-} */
-.written {
+/* .written {
     background-color: chartreuse;
     height: 50px;
-}
+} */
 
 .explore{
     height: 250px;

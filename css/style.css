@@ -69,8 +69,7 @@
 .boxy img {
     width: 100%;
     padding: 2px;
-    border-radius:15px;
-    
+    border-radius:15px;    
 }
 
 .baxy {
@@ -86,7 +85,8 @@
 .boxy_ img{
     width: 100%;
     border-radius: 15px;
-    background-color: #1f1f1f;
+    padding: 2px;
+    
 }
 
 

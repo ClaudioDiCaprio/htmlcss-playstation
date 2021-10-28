@@ -80,24 +80,13 @@
 .boxy_ img{
     width: 100%;
     border-radius: 15px;
-    padding: 2px;
-    
+    padding: 2px;    
 }
 
 .baxy {
     background-color: rgb(21, 255, 0);
     height: 80px;
 }
-
-
-.playstation_5 img{
-    width: 100%;
-    
-}
-.container .row .props img {
-    width: 100%;
-}
-
 
 #plus {
     height: 350px;
@@ -115,6 +104,10 @@ footer{
 
 /* hover */
 .boxy:hover {
+    border: 2px solid rgb(33, 103, 255);
+}
+
+.boxy_:hover {
     border: 2px solid rgb(33, 103, 255);
 }
 

@@ -25,12 +25,12 @@
 #jumbo .row #retu {
     width: 350px;
 }
+
 .micro {
     font-size: 7px;
     position: relative;
     bottom: 5px;
 }
-
 .mine {
     font-size: 13px;
 }
@@ -41,14 +41,13 @@
     background-size: cover;
     background-position: center;
 }
-
 #jumbo {
     background-image: url(../img/jumbo-bg.png);
 }
-
 #mega {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
 }
+
 #megatron {
     background-color: #1f1f1f;
 }
@@ -60,15 +59,15 @@
     font-size: 40px;
 }
 
-.boxy {
-    width: 100%;
-    border-radius: 15px;
-    border: 2px solid rgb(255, 255, 255);
-}
-
+.boxy,
 .boxy_ {
     width: 100%;
     border-radius: 15px;
+}
+.boxy {
+    border: 2px solid rgb(255, 255, 255);
+}
+.boxy_ {
     border: 2px solid  #1f1f1f;;
 }
 

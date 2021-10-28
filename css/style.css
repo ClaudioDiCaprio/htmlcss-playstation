@@ -72,11 +72,6 @@
     border-radius:15px;    
 }
 
-.baxy {
-    background-color: rgb(21, 255, 0);
-    height: 80px;
-}
-
 .boxy_ {
     width: 100%;
     border-radius: 15px;
@@ -89,6 +84,11 @@
     
 }
 
+.baxy {
+    background-color: rgb(21, 255, 0);
+    height: 80px;
+}
+
 
 .playstation_5 img{
     width: 100%;
@@ -98,32 +98,6 @@
     width: 100%;
 }
 
-/* .written {
-    background-color: chartreuse;
-    height: 50px;
-} */
-
-.explore{
-    height: 250px;
-    background-color: cornflowerblue;
-}
-
-.ciciarampa,
-.ciciarampa_,
-.ciciarampa- {
-    height: 400px;
-}
-
-.ciciarampa {
-    background-color: crimson;
-}
-
-.ciciarampa_ {
-    background-color: darkblue;
-}
-.ciciarampa- {
-    background-color: darkorange;
-}
 
 #plus {
     height: 350px;

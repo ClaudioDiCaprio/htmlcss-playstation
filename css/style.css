@@ -45,7 +45,11 @@
     border-radius: 15px;
     border: 2px solid rgb(255, 255, 255);
 }
-
+.tralala {
+    border-radius: 15px;
+    border: 2px solid rgb(255, 255, 255);
+    padding: 0 20px;
+}
 .boxy img {
     width: 100%;
     padding: 2px;
@@ -63,17 +67,11 @@
     border-radius:10px;
 }
 
-.ecco {
-    height: 250px;
+.playstation_5 img{
+    width: 100%;
+    
 }
 
-.console{
-    height:350px;
-}
-
-.console_ {
-    height:350px;
-}
 
 #mega{
     height: 600px;
@@ -119,6 +117,8 @@ footer{
     background-color: #00439c;
 }
 
+/* hover */
 .boxy:hover {
     border: 2px solid rgb(33, 103, 255);
 }
+

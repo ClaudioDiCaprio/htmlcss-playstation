@@ -30,11 +30,23 @@
     width: 350px;
 }
 
+
 #jumbo {
     height:600px;
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
     background-position: center;
+}
+
+#mega {
+    height:600px;
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#mega .row #taki {
+    width: 300px;
 }
 .break {
     font-size: 40px;
@@ -76,9 +88,9 @@
 }
 
 
-#mega{
+/* #mega{
     height: 600px;
-}
+} */
 .written {
     background-color: chartreuse;
     height: 50px;

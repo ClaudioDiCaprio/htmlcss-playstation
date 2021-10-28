@@ -31,6 +31,10 @@
     bottom: 5px;
 }
 
+.mine {
+    font-size: 13px;
+}
+
 #jumbo,
 #mega {
     height:600px;
@@ -49,7 +53,8 @@
     background-color: #1f1f1f;
 }
 
-#mega .row #taki {
+#mega .row #taki,
+.le_plu {
     width: 300px;
 }
 .break {
@@ -81,9 +86,9 @@
 }
 
 #plus {
-    height: 350px;
-    background-color: grey;
+    background-color: rgb(196, 196, 196);
 }
+
 .follow {
     height: 200px;
     background-color: hotpink;
@@ -102,4 +107,3 @@ footer{
 .boxy_:hover {
     border: 2px solid rgb(33, 103, 255);
 }
-

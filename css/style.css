@@ -71,6 +71,9 @@
     width: 100%;
     
 }
+.container .row .props img {
+    width: 100%;
+}
 
 
 #mega{

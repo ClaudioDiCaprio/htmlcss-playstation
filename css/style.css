@@ -31,22 +31,22 @@
     bottom: 5px;
 }
 
-#jumbo {
+#jumbo,
+#mega {
     height:600px;
-    background-image: url(../img/jumbo-bg.png);
     background-size: cover;
     background-position: center;
 }
 
-#megatron {
-    background-color: #1f1f1f;
+#jumbo {
+    background-image: url(../img/jumbo-bg.png);
 }
 
 #mega {
-    height:600px;
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
-    background-size: cover;
-    background-position: center;
+}
+#megatron {
+    background-color: #1f1f1f;
 }
 
 #mega .row #taki {

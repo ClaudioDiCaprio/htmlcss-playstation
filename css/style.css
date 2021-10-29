@@ -86,10 +86,19 @@
 }
 
 footer{
-    height: 900px;
+    /* height: 900px; */
     background-color: #00439c;
     margin-top: 50px;
 }
+
+.globe {
+    width: 18px;
+}
+
+footer ul {
+    list-style: none;
+}
+
 
 /* hover */
 .boxy:hover {

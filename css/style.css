@@ -116,6 +116,10 @@ footer ul {
     opacity:100% ;
 } 
 
+.boxy:hover,
+.props:hover {
+    transform: translateY(-10px);
+}
 
 header {
     display: unset;

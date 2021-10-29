@@ -130,6 +130,30 @@ footer ul {
     color: white;
 }
 
+.lolo_ {
+    background-color: #0d6efd;
+    padding:5px 8px ;
+    border: 3px solid #0d6efd;
+    border-radius:2em ;
+    color: white;
+}
+
+.lolllo_ {
+    background-color: #f8f9fa;
+    padding:5px 8px ;
+    border: 3px solid #f8f9fa;
+    border-radius:2em ;
+    color: #0d6efd;
+}
+
+.lo_lo_ {
+    background-color: #f8f9fa;
+    padding:5px 8px ;
+    border: 3px solid #f8f9fa;
+    border-radius:2em ;
+    color: #161c3b;
+}
+
 .butt{
     padding: 11px 3px;
 }
@@ -138,3 +162,19 @@ footer ul {
     border: 3px solid black;
     color: black;
 }
+
+.lolo_:hover {
+    border: 3px solid rgb(255, 255, 255);
+    
+}
+
+.lolllo_:hover {
+    border: 3px solid #bebcbb;
+    
+}
+
+.lo_lo_:hover {
+    border: 3px solid #161c3b;
+    
+}
+

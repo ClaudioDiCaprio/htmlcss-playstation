@@ -48,6 +48,10 @@
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
 }
 
+.props {
+    border-bottom: 2px solid white;
+    opacity: 70%;
+}    
 #megatron {
     background-color: #1f1f1f;
 }
@@ -105,4 +109,14 @@ footer ul {
 
 .boxy_:hover {
     border: 2px solid rgb(33, 103, 255);
+}
+
+.props:hover {
+    border-bottom: 2px solid rgb(50, 122, 255);
+    opacity:100% ;
+} 
+
+
+header {
+    display: unset;
 }

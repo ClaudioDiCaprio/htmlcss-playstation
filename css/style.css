@@ -103,7 +103,7 @@ footer ul {
 }
 
 
-/* hover */
+/* hover_ bonus */
 .boxy:hover {
     border: 2px solid rgb(33, 103, 255);
 }
@@ -125,16 +125,16 @@ footer ul {
 .lolo {
     background-color: #dc3545;
     padding:5px 8px ;
-    border: 2px solid #dc3545;
-    border-radius:20px ;
+    border: 3px solid #dc3545;
+    border-radius:2em ;
     color: white;
 }
 
 .butt{
-    padding: 9px 2px;
+    padding: 10px 3px;
 }
 
 .lolo:hover {
-    border: 2px solid black;
+    border: 3px solid black;
     color: black;
 }

@@ -43,6 +43,7 @@
 }
 #jumbo {
     background-image: url(../img/jumbo-bg.png);
+    /* margin-top: 75px */
 }
 #mega {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
@@ -121,6 +122,7 @@ footer ul {
     transform: translateY(-10px);
 }
 
-header {
-    display: unset;
-}
+/* #header_bottom {
+    position: fixed;
+    z-index: 1;
+} */
